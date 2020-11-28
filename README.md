@@ -1,2 +1,2 @@
-# calculator
-A calculator GUI using the python module - tkinter
+# Calculator
+## A calculator GUI using the python module - tkinter
